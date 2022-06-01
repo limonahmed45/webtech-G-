@@ -1,0 +1,24 @@
+body {
+  background-color: #F0FFFF;  text-align: left;
+
+}
+h1 {
+  color: black; text-align: left;
+  
+}
+p {
+  color: black; text-align: left;
+  
+}
+table, th, td {
+  border: 1px solid black;
+  text-align: left;
+  
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+img{size:200px;
+width:200px;
+  border: 5px solid #555;}
