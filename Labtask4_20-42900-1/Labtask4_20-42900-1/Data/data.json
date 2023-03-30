@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sakib",
+        "e-mail": "sakib@aiub.edu",
+        "username": "sakib",
+        "password": "12345678",
+        "gender": "male",
+        "dob": "1996-06-08"
+    },
+    {
+        "name": "Limon Ahmed",
+        "e-mail": "limonahmed70@gmail.com",
+        "username": "limon",
+        "password": "12345678",
+        "gender": "male",
+        "dob": "2001-04-16"
+    },
+    {
+        "name": "Fuadhul",
+        "e-mail": "abc@gmail.com",
+        "username": "Fuadhul",
+        "password": "12345678",
+        "gender": "Male",
+        "dob": "1998-04-25"
+    }
+]
